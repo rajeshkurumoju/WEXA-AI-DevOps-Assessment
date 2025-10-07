@@ -1,0 +1,16 @@
+{
+  "name": "wexa-ai-devops-app",
+  "version": "1.0.0",
+  "description": "🚀 WEXA AI - Node.js Sample App for DevOps & Cloud Innovation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "WEXA AI",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
+
