@@ -19,13 +19,13 @@ app.get('/', (req, res) => {
       <h2>Your DevOps & Cloud Innovation Partner</h2>
       <p>Empowering businesses with automation, scalability, and intelligent cloud solutions.</p>
       <hr style="width:60%; margin: 20px auto;">
-      <p style="color:gray;">Node.js Sample App • Powered by DevOps Excellence</p>
+      <p style="color:gray;">Node.js Sample App • Powered by Rajesh Kurumoju</p>
     </div>
   `);
 });
 
 // Start the server (listen on all network interfaces)
 app.listen(PORT, '0.0.0.0', () => {
-  console.log(`✅ WEXA AI DevOps App running at: http://43.204.235.148:${PORT}`);
+  console.log(`✅ WEXA AI DevOps App running at: http://localhost(or)Public IP:${PORT}`);
 });
 
