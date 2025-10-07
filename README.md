@@ -1,1 +1,1 @@
-# WEXA-AI-DevOps-Assessment-
+# WEXA-AI-DevOps-Assessment
