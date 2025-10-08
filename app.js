@@ -26,6 +26,6 @@ app.get('/', (req, res) => {
 
 // Start the server (listen on all network interfaces)
 app.listen(PORT, '0.0.0.0', () => {
-  console.log(`✅ WEXA AI DevOps App running at: http://localhost(or)Public IP:${PORT}`);
+  console.log(`✅ WEXA AI DevOps App running on port ${PORT}`);
 });
 
